@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
+  "name": "moriarty47-react-scripts",
   "version": "5.0.1",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Moriarty47's Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/Moriarty47/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",

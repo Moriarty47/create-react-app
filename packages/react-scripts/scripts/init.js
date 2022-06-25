@@ -404,6 +404,10 @@ module.exports = function (
   }
   console.log();
   console.log('Happy hacking!');
+  console.log();
+  console.log(chalk.red('VERY IMPORTANT:'));
+  console.log('You are using a CRA forked by Moriarty47.');
+  console.log();
 };
 
 function isReactInstalled(appPackage) {

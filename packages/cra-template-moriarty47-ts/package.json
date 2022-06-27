@@ -1,6 +1,6 @@
 {
   "name": "cra-template-moriarty47-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Moriarty47's TypeScript template for Create React App.",
   "main": "index.js",
   "scripts": {

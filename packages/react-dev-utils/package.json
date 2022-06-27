@@ -1,6 +1,6 @@
 {
   "name": "moriarty47-react-dev-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack utilities used by Create React App",
   "repository": {
     "type": "git",

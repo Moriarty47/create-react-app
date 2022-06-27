@@ -36,5 +36,5 @@ module.exports = function getLocalIdent(
     options
   );
   // Remove the .module that appears in every classname when based on the file and replace all "." with "_".
-  return className.replace('.module_', '_').replace(/\./g, '_');
+  return className.replace('.m_', '_').replace(/\./g, '_');
 };

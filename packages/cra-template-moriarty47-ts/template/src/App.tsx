@@ -5,16 +5,16 @@ import styles from './App.m.scss';
 const App = () => {
   const mode = process.env.NODE_ENV;
   return (
-    <div className={styles.App}>
-      <header className={styles.AppHeader}>
-        <img src={logo} className={styles.AppLogo} alt="logo" />
+    <div className={styles.app}>
+      <header className={styles.appHeader}>
+        <img src={logo} className={styles.appLogo} alt="logo" />
         <p>This is {mode} mode.</p>
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
-        <p>Moriarty CRA Template</p>
+        <p>Moriarty47's CRA Template</p>
         <a
-          className={styles.AppLink}
+          className={styles.appLink}
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"

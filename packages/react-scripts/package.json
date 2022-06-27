@@ -1,6 +1,6 @@
 {
   "name": "moriarty-47-cra",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Moriarty47's Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
     "node": ">=14.0.0"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/Moriarty47/create-react-app/issues"
   },
   "files": [
     "bin",
